@@ -7,7 +7,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=DatWithTheWorld&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DatWithTheWorld&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YUPP4&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatWithTheWorld&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=DatWithTheWorld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
